@@ -17,6 +17,8 @@ public class HelloWorld2 {
         // TODO code application logic here
         
         Student [] students = new Student [];
+        int n=10;
+        System.out.println(n);
     }
     
 }
