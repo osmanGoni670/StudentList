@@ -18,7 +18,8 @@ public class HelloWorld2 {
         
         Student [] students = new Student [];
         int n=10;
-        System.out.println(n);
+        int y=1;
+        System.out.println(n+y);
     }
     
 }
